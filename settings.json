@@ -47,5 +47,6 @@
     "stackoverflow": "",
     "kofi": "",
     "email": "support@glitch.com"
-  }
+  },
+  "mode": "dev"
 }
