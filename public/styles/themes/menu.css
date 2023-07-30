@@ -37,9 +37,9 @@ ul.link-list li a:hover, ul.link-list li a:focus {
   color: white;
 }
 ul.link-list li a img {
-  border-radius: 0.2rem;
-  width: 3rem;
-  overflow: visible;
+  border-radius: 0.8rem;
+  width: auto;
+  /*overflow: visible;*/
 }
 .social-profile-icon path:hover, .social-profile-icon path:focus {
   fill: var(--color-bg);
