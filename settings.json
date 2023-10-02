@@ -25,7 +25,7 @@
     },
     {
       "url": "https://www.youtube.com/channel/UCG4CUocqfiAkWIoAcLa32gg",
-      "text": "YouTube Channel",
+      "text": "YouTube",
       "img":"assets/img/YouTube_500x500.png",
       "altText": "YouTube"
     },
@@ -40,33 +40,13 @@
       "text": "GitHub",
       "img":"assets/img/GitHub_500x500.png",
       "altText": "GitHub"
+    },
+    {
+      "url": "https://www.linkedin.com/company/98897134",
+      "text": "LinkedIn",
+      "img":"assets/img/LinkedIn_500x500.png",
+      "altText": "LinkedIn"
     }
   ],
-  "social": {
-    "glitch": "https://glitch.com/",
-    "spotify": "",
-    "substack": "",
-    "dev": "https://dev.to/glitch",
-    "facebook": "",
-    "github": "https://github.com/glitchdotcom",
-    "gitlab": "",
-    "hashnode": "",
-    "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
-    "medium": "",
-    "patreon": "",
-    "pinterest": "",
-    "twitter": "https://twitter.com/glitch",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "twitch": "",
-    "tiktok": "",
-    "podcast": "",
-    "soundcloud": "",
-    "bandcamp": "",
-    "mastodon": "",
-    "stackoverflow": "",
-    "kofi": "",
-    "email": "support@glitch.com"
-  },
   "mode": "dev"
 }
