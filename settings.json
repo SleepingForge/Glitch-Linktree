@@ -6,12 +6,6 @@
   "avatarImage": "https://cdn.glitch.global/8fd70428-404d-47e8-b045-c9e777fc7e28/SleepingForgePixelLogo_whiteBG.png?v=1658024825969",
   "links": [
     {
-      "url": "https://sleepingForge.com",
-      "text": "Sleeping Forge Homepage",
-      "img":"assets/img/logo_draw_500x500.jpg",
-      "altText": "Website"
-    },
-    {
       "url": "https://twitter.com/SleepingForge",
       "text": "Twitter",
       "img": "assets/img/Twitter_500x500.png",
@@ -47,5 +41,6 @@
       "img":"assets/img/LinkedIn_500x500.png",
       "altText": "LinkedIn"
     }
-  ]
+  ],
+  "mode": "dev"
 }
