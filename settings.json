@@ -41,5 +41,9 @@
       "img":"assets/img/LinkedIn_500x500.png",
       "altText": "LinkedIn"
     }
-  ]
+  ],
+  "social": {
+    "": ""
+  },
+  "mode": "dev"
 }

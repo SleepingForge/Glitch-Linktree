@@ -37,7 +37,7 @@ ul.link-list li a:hover, ul.link-list li a:focus {
   color: white;
 }
 ul.link-list li a img {
-  border-radius: 0.8rem;
+  border-radius: 0.2rem;
   width: auto;
   /*overflow: visible;*/
 }
