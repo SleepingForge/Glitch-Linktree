@@ -13,9 +13,9 @@ export const renderFooter = html.node`<footer class="footer">
   >
     <img
       src="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FLogo_Color.svg?v=1618199565140"
-      alt=""
+      alt="Glitch.com"
     />
-    Get your own free page
+    Hosted on <i>Glitch</i>
   </a>
 </footer>
 `;
