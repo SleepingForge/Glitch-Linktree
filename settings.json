@@ -3,46 +3,47 @@
   "metaDescription": "Sleeping Forge Indie-Gamestudio.",
   "name": "Sleeping Forge",
   "theme": "menu",
-  "avatarImage": "https://cdn.glitch.global/c8b06db8-b22a-4ffa-8131-9f7aea125b4c/logo_draw_500x500.jpg?v=1697104446302",
+  "avatarImage": "https://cdn.glitch.global/8fd70428-404d-47e8-b045-c9e777fc7e28/SleepingForgePixelLogo_whiteBG.png?v=1658024825969",
   "links": [
     {
       "url": "https://twitter.com/SleepingForge",
       "text": "Twitter",
-      "img": "https://cdn.glitch.global/c8b06db8-b22a-4ffa-8131-9f7aea125b4c/Twitter_500x500.png?v=1697104447258",
+      "img": "assets/img/Twitter_500x500.png",
       "altText": "Twitter"
     },
     {
       "url": "https://www.instagram.com/sleepingforge",
       "text": "Instagram",
-      "img":"https://cdn.glitch.global/c8b06db8-b22a-4ffa-8131-9f7aea125b4c/Instagram_500x500.png?v=1697104445240",
+      "img":"assets/img/Instagram_500x500.png",
       "altText": "Instagram"
     },
     {
       "url": "https://www.youtube.com/channel/UCG4CUocqfiAkWIoAcLa32gg",
       "text": "YouTube",
-      "img":"https://cdn.glitch.global/c8b06db8-b22a-4ffa-8131-9f7aea125b4c/YouTube_500x500.png?v=1697104447729",
+      "img":"assets/img/YouTube_500x500.png",
       "altText": "YouTube"
     },
     {
       "url": "https://www.reddit.com/u/SleepingForge",
       "text": "Reddit",
-      "img":"https://cdn.glitch.global/c8b06db8-b22a-4ffa-8131-9f7aea125b4c/Reddit_500x500.png?v=1697104446801",
+      "img":"assets/img/Reddit_500x500.png",
       "altText": "Reddit"
     },
     {
       "url": "https://github.com/SleepingForge",
       "text": "GitHub",
-      "img":"https://cdn.glitch.global/c8b06db8-b22a-4ffa-8131-9f7aea125b4c/GitHub_500x500.png?v=1697104444348",
+      "img":"assets/img/GitHub_500x500.png",
       "altText": "GitHub"
     },
     {
       "url": "https://www.linkedin.com/company/98897134",
       "text": "LinkedIn",
-      "img":"https://cdn.glitch.global/c8b06db8-b22a-4ffa-8131-9f7aea125b4c/LinkedIn_500x500.png?v=1697104445698",
+      "img":"assets/img/LinkedIn_500x500.png",
       "altText": "LinkedIn"
     }
   ],
   "social": {
     "": ""
-  }
+  },
+  "mode": "dev"
 }
