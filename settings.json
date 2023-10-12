@@ -3,7 +3,7 @@
   "metaDescription": "Sleeping Forge Indie-Gamestudio.",
   "name": "Sleeping Forge",
   "theme": "menu",
-  "avatarImage": "https://cdn.glitch.global/8fd70428-404d-47e8-b045-c9e777fc7e28/SleepingForgePixelLogo_whiteBG.png?v=1658024825969",
+  "avatarImage": "https://cdn.glitch.global/c8b06db8-b22a-4ffa-8131-9f7aea125b4c/logo_draw_500x500.jpg?v=1697104446302",
   "links": [
     {
       "url": "https://twitter.com/SleepingForge",
@@ -45,5 +45,5 @@
   "social": {
     "": ""
   },
-  "mode": "dev"
+  "mode": "prod"
 }

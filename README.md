@@ -1,5 +1,4 @@
-To avoid redirect to https on dev server, add `"mode" = dev` to the `settings.json`.
-
+Deactivate https redirect for local development
 ---
 
 Original README:
