@@ -7,7 +7,7 @@
 <meta property="og:image" content="{{ settings.avatarImage }}" />
 <meta property="og:title" content="{{ settings.metaTitle}}" />
 <meta name="twitter:card" content="summary" />
-<link rel="icon" href="https://glitch.com/favicon.ico" />
+<link rel="icon" href="{{settings.avatarImage}}" />
 <link rel="stylesheet" type="text/css" href="/styles/style.css" />
 <!--PWA requirements-->
 <meta name="theme-color" content="#9480FF"/>
@@ -16,7 +16,7 @@
 <!-- PWA setup - update public/sw.js if you add your own assets like a new .css file -->
 <link rel="manifest" href="manifest.json">
 <script>
-if(location.protocol == 'http:') location.protocol = 'https:';
+if((location.protocol == 'http:') && ('{{ settings.mode }}' != 'dev')) location.protocol = 'https:';
 if('serviceWorker' in navigator) {
   navigator.serviceWorker.register('sw.js')
     .then(reg => console.log('Service Worker registered', reg))
@@ -24,5 +24,5 @@ if('serviceWorker' in navigator) {
 }
 else {
   console.warn('Service Worker not supported in this browser');
-}    
+}
 </script>
