@@ -3,23 +3,43 @@
   "metaDescription": "My meta description.",
   "name": "Glitch in Bio",
   "theme": "glitch",
-  "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
+  "avatarImage": "https://cdn.glitch.global/c8b06db8-b22a-4ffa-8131-9f7aea125b4c/logo_draw_500x500.jpg?v=1697104446302",
   "links": [
     {
-      "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
-      "altText": "Glitch blue generative art"
+      "url": "https://twitter.com/SleepingForge",
+      "text": "Twitter",
+      "img": "assets/img/Twitter_500x500.png",
+      "altText": "Twitter"
     },
     {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
-      "img": ""
+      "url": "https://www.instagram.com/sleepingforge",
+      "text": "Instagram",
+      "img":"assets/img/Instagram_500x500.png",
+      "altText": "Instagram"
     },
     {
-      "url": "https://www.glitch.com/",
-      "text": "Built by and on Glitch, the easiest way to build the web.",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "url": "https://www.youtube.com/channel/UCG4CUocqfiAkWIoAcLa32gg",
+      "text": "YouTube",
+      "img":"assets/img/YouTube_500x500.png",
+      "altText": "YouTube"
+    },
+    {
+      "url": "https://www.reddit.com/u/SleepingForge",
+      "text": "Reddit",
+      "img":"assets/img/Reddit_500x500.png",
+      "altText": "Reddit"
+    },
+    {
+      "url": "https://github.com/SleepingForge",
+      "text": "GitHub",
+      "img":"assets/img/GitHub_500x500.png",
+      "altText": "GitHub"
+    },
+    {
+      "url": "https://www.linkedin.com/company/98897134",
+      "text": "LinkedIn",
+      "img":"assets/img/LinkedIn_500x500.png",
+      "altText": "LinkedIn"
     }
   ],
   "social": {
