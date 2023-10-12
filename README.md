@@ -1,3 +1,9 @@
+To avoid redirect to https on dev server, add `"mode" = dev` to the `settings.json`.
+
+---
+
+Original README:
+
 # Glitch in Bio!
 
 Your links, your way. A link-in-bio app you can customize any way you want.
