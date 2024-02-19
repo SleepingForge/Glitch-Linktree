@@ -1,4 +1,9 @@
 Deactivate https redirect for local development
+
+My Branches:
+* <code>main</code>: Branch for a local Version - A Version that works theoretically offline (assets located in the assets folder)
+* <code>glitch</code>: automatically generated Branch from https://glitch.com - Used to Backup published Version of the Linktree (assets uploaded to the cdn)
+
 ---
 
 Original README:
